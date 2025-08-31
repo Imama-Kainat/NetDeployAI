@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="NETDIPLOY.JPG" alt="Aurora AI Logo" width="150" height="150"/>
+  <img src="NETDIPLOY.JPG" alt="Aurora AI Logo" width="100"%/>
 </p>
-#  NetDeploy AI
+
+# NetDeploy AI
 
 *Next Generation Telecommunications Solutions*
 
