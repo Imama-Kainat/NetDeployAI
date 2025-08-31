@@ -1,5 +1,7 @@
-
-# 🚀 NetDeploy AI
+<p align="center">
+  <img src="NETDIPLOY.JPG" alt="Aurora AI Logo" width="150" height="150"/>
+</p>
+#  NetDeploy AI
 
 *Next Generation Telecommunications Solutions*
 
